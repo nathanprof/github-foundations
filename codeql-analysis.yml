@@ -1,0 +1,12 @@
+# For most projects, this workflow file is not changing; you simply need 
+# connect it to your repository
+# 
+#  you may wish to enter this file to override the set of languages analysed
+# or to privde custom queries or bld logic
+# 
+# ^^^^^^^^ NOTE ^^^^^^^^^
+# We have attempted to detect the languages in your repository, please check
+# Pls chck the language matrix below to confirm you have the correct set of
+# supported CodeQL languages.
+#
+CodeQL
